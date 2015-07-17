@@ -11,8 +11,8 @@ import java.util.Date;
 /**
  * Created by ZHUC on 2015/6/16.
  */
-@Component
-@Lazy(false)
+//@Component
+//@Lazy(false)
 public class MyTask {
 
     private static final Logger logger = LoggerFactory.getLogger(MyTask.class);
